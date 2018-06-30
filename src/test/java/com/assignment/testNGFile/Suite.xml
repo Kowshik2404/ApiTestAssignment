@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" verbose="1">
+	<test name="ApiTest">
+		<classes>
+			<class name="com.assignment.ApiTest.GetMethodTest" />
+			<class name="com.assignment.ApiTest.PostMethodTest" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="1772" started-at="2018-06-30T06:31:58Z" finished-at="2018-06-30T06:32:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1772" started-at="2018-06-30T06:31:58Z" finished-at="2018-06-30T06:32:00Z">
+      <class name="com.assignment.ApiTest.PostMethodTest">
+        <test-method status="PASS" signature="addSpace()[pri:0, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="addSpace" is-config="true" duration-ms="1" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpace -->
+        <test-method status="PASS" signature="successStatusTest()[pri:1, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="successStatusTest" duration-ms="41" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successStatusTest -->
+        <test-method status="PASS" signature="addSpace()[pri:0, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="addSpace" is-config="true" duration-ms="1" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpace -->
+        <test-method status="PASS" signature="resourceNotFoundTest()[pri:2, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="resourceNotFoundTest" duration-ms="18" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resourceNotFoundTest -->
+        <test-method status="PASS" signature="addSpace()[pri:0, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="addSpace" is-config="true" duration-ms="1" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpace -->
+        <test-method status="PASS" signature="unsupportedMediaTest()[pri:3, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="unsupportedMediaTest" duration-ms="17" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsupportedMediaTest -->
+        <test-method status="PASS" signature="addSpace()[pri:0, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="addSpace" is-config="true" duration-ms="1" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpace -->
+        <test-method status="PASS" signature="successWithAuthTest()[pri:4, instance:com.assignment.ApiTest.PostMethodTest@100fc185]" name="successWithAuthTest" duration-ms="23" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successWithAuthTest -->
+      </class> <!-- com.assignment.ApiTest.PostMethodTest -->
+      <class name="com.assignment.ApiTest.GetMethodTest">
+        <test-method status="PASS" signature="addSpace()[pri:0, instance:com.assignment.ApiTest.GetMethodTest@3a82f6ef]" name="addSpace" is-config="true" duration-ms="26" started-at="2018-06-30T06:31:59Z" finished-at="2018-06-30T06:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpace -->
+        <test-method status="PASS" signature="successStatusTest()[pri:1, instance:com.assignment.ApiTest.GetMethodTest@3a82f6ef]" name="successStatusTest" duration-ms="1524" started-at="2018-06-30T06:31:59Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successStatusTest -->
+        <test-method status="PASS" signature="addSpace()[pri:0, instance:com.assignment.ApiTest.GetMethodTest@3a82f6ef]" name="addSpace" is-config="true" duration-ms="0" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSpace -->
+        <test-method status="PASS" signature="resourceNotFoundTest()[pri:2, instance:com.assignment.ApiTest.GetMethodTest@3a82f6ef]" name="resourceNotFoundTest" duration-ms="28" started-at="2018-06-30T06:32:00Z" finished-at="2018-06-30T06:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resourceNotFoundTest -->
+      </class> <!-- com.assignment.ApiTest.GetMethodTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
